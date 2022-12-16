@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Krishnateja001
+- 👋 Hi, I’m @Krishnateja001 or KT
 - 👀 I’m interested in working on data oriented projects
 - 🌱 I’m currently learning java(for my class) and R
 - 💞️ I’m looking to collaborate on python projects
