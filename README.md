@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Krishnateja001 or KT
-- 👀 I’m interested in working on data oriented projects
+- 👀 I’m interested in working on webdevelopment and data oriented projects
 - 🌱 I’m currently learning java(for my class) and R
 - 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me https://www.linkedin.com/in/krishna-teja-489a2017b/
