@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Krishnateja001 or KT
 - 👀 I’m interested in working on Fullstack or data oriented projects
-- 🌱 I’m currently learning java(for my class) and R
+- 🌱 I’m currently learning GO and R
 - 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me https://www.linkedin.com/in/krishnateja11/
 
