@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Krishnateja001 or KT
+- 👋 Hi, I’m Krishnteja  or KT
 - 👀 I’m interested in working on Fullstack or data oriented projects
 - 🌱 I’m currently learning GO and R
 - 💞️ I’m looking to collaborate on python projects
+-    Completed my Masters in computer science from UMASS
 
 
 <!---
